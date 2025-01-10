@@ -1,4 +1,4 @@
-# 0x00. Advanced HTML
+# Advanced HTML
 
 ## Description:bulb:
 How to use HTML tags to structure a web page
@@ -161,4 +161,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Belinda Belange Larose**
